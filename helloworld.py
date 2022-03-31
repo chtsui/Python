@@ -8,3 +8,7 @@ print ('Hello World')
 
 x = 10
 print (x*3)
+
+y = 20
+
+print(x - y)
