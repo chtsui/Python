@@ -37,7 +37,7 @@ print(color)
 
 #7 make the entries in this list unique
 schools = {'harris', 'booth', 'crown', 'harris', 'harris'}
-print(schools)
+print(set(schools))
 #8 change the 'dog' entry to 'cat'
 animals = ['bird', 'horse', 'dog', 'fish']
 animals[2] = 'cat'
