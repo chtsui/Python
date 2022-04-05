@@ -1,5 +1,3 @@
-#### fix the following errors!
-
 #1
 x = 10
 y = 20
@@ -9,10 +7,8 @@ print(x + y)
 my_list = [40, 50, 60, 70, 80, 100, 200, 400]
 my_list_len = len(my_list)
 print(my_list_len)
-<<<<<<< HEAD
 print(my_list[-1])
-=======
->>>>>>> 266b95394609ae8685c03bdfe2a6c6b4d8e79fef
+
 
 #3
 my_string = 'hello world'
@@ -23,7 +19,7 @@ z = ['a', 'b', 'c']
 z.append('d')
 print(z)
 
-#5 why does the x not display 10, followed by the 200?  Fix it so it does.
+#5
 x = 10
 print(x)
 y = 20
@@ -33,11 +29,10 @@ print(x * y)
 color = 'My favorite color is {}, what is yours?'.format('blue')
 print(color)
 
-#### answer the following questions without changing the code given
-
 #7 make the entries in this list unique
 schools = {'harris', 'booth', 'crown', 'harris', 'harris'}
 print(set(schools))
+
 #8 change the 'dog' entry to 'cat'
 animals = ['bird', 'horse', 'dog', 'fish']
 animals[2] = 'cat'
