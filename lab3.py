@@ -9,7 +9,10 @@ print(x + y)
 my_list = [40, 50, 60, 70, 80, 100, 200, 400]
 my_list_len = len(my_list)
 print(my_list_len)
+<<<<<<< HEAD
 print(my_list[-1])
+=======
+>>>>>>> 266b95394609ae8685c03bdfe2a6c6b4d8e79fef
 
 #3
 my_string = 'hello world'
